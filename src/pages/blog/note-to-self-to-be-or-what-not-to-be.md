@@ -3,6 +3,7 @@ layout: "../../layouts/BlogPost.astro"
 title: "Note to Self: To Be or What Not to Be"
 description: "I can only control my actions and responses."
 pubDate: "November 10, 2022"
+heroImage: "/images/pregrowth.png"
 published: true
 ---
 

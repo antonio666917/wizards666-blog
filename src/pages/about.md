@@ -2,8 +2,8 @@
 layout: "../layouts/BlogPost.astro"
 title: "About the WIZARDS Blog"
 description: "A Blog about Therapeutic Thought Explorations and Ideas"
-updatedDate: "November 10, 2022"
-heroImage: "/images/POWER_WIZARDS666.jpg"
+updatedDate: "April 4, 2023"
+heroImage: "/images/WIZARDS_666_2023.png"
 ---
 
 This personal blog serves as a conduit to mental and emotional health for its writer. Are these facts or fiction? Embrace the trip, question all of it, assemble whatever is relevant to you, and discard the rest.
